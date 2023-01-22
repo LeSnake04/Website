@@ -1,0 +1,13 @@
+#!/usr/bin/env just --justfile
+
+default: 
+	just serve
+
+serve:
+	mdbook serve
+
+build:
+	mdbook build
+
+push:
+	just build && scp -r book/html webedit@lesnake.xyz:/var/www
