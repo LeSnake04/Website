@@ -1,5 +1,9 @@
 {{#template ./templates/header.md}}
 
+```admonish warning title="Work in Progress"
+This Website is in an early state and missing a lot of information.
+```
+
 # LeSnake
 
 I am a 19 years old student from Germany.

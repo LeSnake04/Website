@@ -1,17 +1,16 @@
 # Summary
 
-[About Me](./about_me.md)
-
-# General
-
-- [Tools Used](./tools.md)
-
-# Projects
-
-- [Cargo-Cleanall](./projects/cargo-cleanall/README.md)
-  - [About](./projects/cargo-cleanall/about.md)
-  - [Install](./projects/cargo-cleanall/install.md)
-
-# Rust
-
-- [Recommended Crates](./rust/crates.md)
+- [About Me](about_me.md)
+- [Tools](tools/README.md)
+  - [Software](tools/software.md)
+  - [PC](tools/pc.md)
+  - [Phone](tools/phone.md)
+- [Projects](./projects/README.md)
+  - [Cargo-Cleanall](./projects/cargo-cleanall/README.md)
+    - [About](./projects/cargo-cleanall/about.md)
+    - [Install](./projects/cargo-cleanall/install.md)
+- [Rust](rust/README.md)
+  - [Recommended Crates](rust/crates.md)
+- [Games](games/README.md)
+  - [PC Games Ranking](games/ranking.md)
+  - [Backlog](games/backlog.md)

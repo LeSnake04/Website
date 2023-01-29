@@ -32,3 +32,5 @@
 - egui (eframe)
 - iced
 - native_dialog
+
+{{#template ../templates/footer.md}}
