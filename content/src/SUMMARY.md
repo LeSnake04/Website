@@ -2,7 +2,7 @@
 
 - [About Me](about_me.md)
 - [Tools](tools/README.md)
-  - [Software](tools/software.md)
+  - [Software](tools/software/README.md)
   - [PC](tools/pc.md)
   - [Phone](tools/phone.md)
 - [Projects](./projects/README.md)
