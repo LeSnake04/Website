@@ -13,12 +13,15 @@
 - figment
 - dirs
 - bstr (serch replace for OsString)
+- snake_helper
+- time / chrono
 
 ## Error Handling
 
 - anyhow
 - unwrap_or
 - miette
+- error_log
 
 ## Cli / TUI
 
