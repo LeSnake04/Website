@@ -10,6 +10,7 @@
   - [Cargo-Cleanall](./projects/cargo-cleanall/README.md)
     - [About](./projects/cargo-cleanall/about.md)
     - [Install](./projects/cargo-cleanall/install.md)
+  - [error_log](./projects/error_log.md)
 - [Rust](rust/README.md)
   - [Recommended Crates](rust/crates.md)
 - [Games](games/README.md)
