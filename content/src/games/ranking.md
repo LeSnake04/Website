@@ -1,4 +1,4 @@
-{{#template ../templates/header.md}}
+{{#template ../header.md}}
 
 # Game Ranking
 
@@ -49,4 +49,4 @@
 
 [^cm]: Childhood Memories
 
-{{#template ../templates/footer.md}}
+{{#template ../footer.md}}

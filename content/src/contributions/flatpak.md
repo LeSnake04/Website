@@ -1,4 +1,4 @@
-{{#template /templates/header.md}}
+{{#template ../header.md}}
 
 # Flatpak Contributions
 
@@ -6,4 +6,4 @@
   - Created Package
   - General Maintainance (Aside Upstream Updates)
 
-{{#template /templates/footer.md}}
+{{#template ../footer.md}}

@@ -1,4 +1,4 @@
-{{#template ../../templates/header.md}}
+{{#template ../../header.md}}
 
 # Software
 
@@ -33,4 +33,4 @@
 
 [^w]: In Wine
 
-{{#template ../../templates/footer.md}}
+{{#template ../../footer.md}}

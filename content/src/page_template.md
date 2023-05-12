@@ -1,5 +1,5 @@
-{{#template ./templates/header.md}}
+{{#template header.md}}
 
 # Title
 
-{{#template ./templates/footer.md}}
+{{#template footer.md}}

@@ -1,4 +1,4 @@
-{{#template ../templates/header.md}}
+{{#template ../header.md}}
 
 # Current
 
@@ -22,4 +22,4 @@
 
 [^tb]: Need to Buy
 
-{{#template ../templates/footer.md}}
+{{#template ../footer.md}}

@@ -1,4 +1,4 @@
-{{#template ../../templates/header.md}}
+{{#template ../../header.md}}
 
 # Installation
 
@@ -16,4 +16,4 @@ cd cargo-cleanall
 cargo install --path .
 ```
 
-{{#template ../../templates/footer.md}}
+{{#template ../../footer.md}}

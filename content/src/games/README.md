@@ -1,7 +1,7 @@
-{{#template /templates/header.md}}
+{{#template ../header.md}}
 
 # Games
 
 1. [PC Games Raking](ranking.md)
 
-{{#template ../templates/footer.md}}
+{{#template ../footer.md}}

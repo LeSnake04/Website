@@ -1,4 +1,4 @@
-{{#template ../templates/header.md}}
+{{#template ../header.md}}
 
 # Phone
 
@@ -17,4 +17,4 @@
 - Reddit: Infinity
 - Instagram: Barinsta
 
-{{#template ../templates/footer.md}}
+{{#template ../footer.md}}

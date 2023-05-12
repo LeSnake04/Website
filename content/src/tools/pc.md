@@ -1,4 +1,4 @@
-{{#template ../templates/header.md}}
+{{#template ../header.md}}
 
 ## PC
 
@@ -28,4 +28,4 @@ GTX 960 > GTX 1060 3GB (From old PC) > Saphire Pulse RX 6700 (15.1.2023)
 
 Intel i5-6500 > Amd Ryzen 5 5500 (31.1.2023)
 
-{{#template ../templates/footer.md}}
+{{#template ../footer.md}}

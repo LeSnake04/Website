@@ -1,4 +1,4 @@
-{{#template ../../templates/header.md}}
+{{#template ../../header.md}}
 
 # Plugins
 
@@ -26,4 +26,4 @@ Extensions I use on my Gnome 43 Desktop(On Fedora 37).
 
 [^rp]: Temporarily Replaced due to missing gnome 43 support
 
-{{#template ../../templates/footer.md}}
+{{#template ../../footer.md}}

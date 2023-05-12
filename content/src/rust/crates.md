@@ -1,4 +1,4 @@
-{{#template ../templates/header.md}}
+{{#template ../header.md}}
 
 # Recommended Crates
 
@@ -36,4 +36,4 @@
 - iced
 - native_dialog
 
-{{#template ../templates/footer.md}}
+{{#template ../footer.md}}

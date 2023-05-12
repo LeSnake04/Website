@@ -1,4 +1,4 @@
-{{#template ../templates/header.md}}
+{{#template ../header.md}}
 
 # Tools
 
@@ -12,4 +12,4 @@ Programs and Hardware I use regularly.
 - DE: Gnome 42 Wayland
 - Used for School
 
-{{#template templates/footer.md}}
+{{#template ../footer.md}}
