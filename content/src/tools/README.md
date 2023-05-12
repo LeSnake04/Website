@@ -12,4 +12,4 @@ Programs and Hardware I use regularly.
 - DE: Gnome 42 Wayland
 - Used for School
 
-{{#template ../templates/footer.md}}
+{{#template templates/footer.md}}

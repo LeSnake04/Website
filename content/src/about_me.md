@@ -1,4 +1,4 @@
-{{#template ./templates/header.md}}
+{{#template /templates/header.md}}
 
 ```admonish warning title="Work in Progress"
 This Website is in an early state and missing a lot of information.
@@ -15,4 +15,4 @@ manage aur und flatpak packages.
 
 I did python projects in the past and now focus on rust projects.
 
-{{#template ./templates/footer.md}}
+{{#template /templates/footer.md}}
