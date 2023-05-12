@@ -1,4 +1,5 @@
 #!/usr/bin/env just --justfile
+set positional-arguments
 
 default: 
 	just --list
