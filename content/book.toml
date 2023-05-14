@@ -23,7 +23,7 @@ optional = true
 
 [preprocessor.theme]
 pagetoc = true
-body-font-size = "18px"
+body-font-size = "16px"
 sidebar-width = "20%"
 pagetoc-width = "13%"
 content-max-width = "82%"
