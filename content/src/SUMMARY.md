@@ -12,6 +12,7 @@
     - [Install](./projects/cargo-cleanall/install.md)
   - [error_log](./projects/error_log.md)
 - [Rust](rust/README.md)
+  - [Setup](rust/setup.md)
   - [Recommended Crates](rust/crates.md)
 - [Games](games/README.md)
   - [PC Games Ranking](games/ranking.md)
