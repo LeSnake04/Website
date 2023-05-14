@@ -9,6 +9,16 @@ git-repository-url = "https://github.com/lesnake04/Website/content"
 [build]
 create-missing = false
 
+[output.html]
+additional-css = ["mdbook-admonish.css","theme/pagetoc.css"] 
+additional-js  = ["theme/pagetoc.js"] 
+default-theme = "dark"
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/lesnake04/website"
+
+[output.linkcheck]
+optional = true
+
 [preprocessor.template]
 
 [preprocessor.theme]
@@ -21,16 +31,6 @@ content-max-width = "82%"
 [preprocessor.last-changed]
 command = "mdbook-last-changed"
 renderer = ["html"]
-
-[output.html]
-additional-css = ["mdbook-admonish.css","theme/pagetoc.css"] 
-additional-js  = ["theme/pagetoc.js"] 
-default-theme = "dark"
-preferred-dark-theme = "ayu"
-git-repository-url = "https://github.com/lesnake04/website"
-
-[output.linkcheck]
-optional = true
 
 [preprocessor.admonish]
 command = "mdbook-admonish"
