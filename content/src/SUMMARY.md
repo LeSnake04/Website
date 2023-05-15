@@ -3,6 +3,7 @@
 - [About Me](about_me.md)
 - [Tools](tools/README.md)
   - [Software](tools/software/README.md)
+    - [Terminal](tools/software/terminal.md)
     - [Plugins](tools/software/plugins.md)
   - [PC](tools/pc.md)
   - [Phone](tools/phone.md)
