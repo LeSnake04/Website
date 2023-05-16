@@ -14,6 +14,7 @@
   - [error_log](./projects/error_log.md)
 - [Rust](rust/README.md)
   - [Setup](rust/setup.md)
+  - [Workflow](rust/workflow.md)
   - [Recommended Crates](rust/crates.md)
 - [Games](games/README.md)
   - [PC Games Ranking](games/ranking.md)
