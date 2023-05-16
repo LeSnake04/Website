@@ -11,19 +11,30 @@ Plugins I across different Programs
 
 ## Gnome
 
-Extensions I use on my Gnome 43 Desktop(On Fedora 37).
+Extensions I use on my Gnome 43 Laptop (Fedora 37).
 
-- Improved-Osk
-- ddterm
-- gsconnect
-- Dash to Dock
-- Pop Shell (For tiling mode)
-- Cpu Power Manager [^rp]
-- Force Quit
 - Auto Move Windows
-- Extension Menu
+- Appindicator Support
 - Caffein
+- Clipboard Indicator
+- Cpu Power Manager [^rp]
+- Dash to Dock
+- ddterm[^bu]
+- Extension List
+- Force Quit
+- gsconnect
+- Improved-Osk
+- Just Perfection
+- Lock Keys
+- Media Kontrols
+- Pop Shell (For tiling mode)
+- Removeable Drive menu
+- Screenshot tool[^bu]
+- Tob Bar organiser
+- Vitals
+- Wireles HID
 
-[^rp]: Temporarily Replaced due to missing gnome 43 support
+[^rp]: Temporarily Replaced due to missing gnome 43 support [^bu]: blocking
+upgrade to Gnome 44
 
 {{#template ../../footer.md}}
