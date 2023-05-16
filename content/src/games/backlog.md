@@ -2,24 +2,26 @@
 
 # Current
 
-- Resident Evil Village Hardcore
-- Geomentry Dash
-- Rebel inc
+- Earth Defense Force 5
 
 # Backlog
 
-1. Doom Ethernal
-2. Life is Strange: True Colors[^tb]
-3. Sniper Ghost Warrior 3
-4. Reauxura
-5. A Pleague Tale: Innocense
-6. Event\[0\]
-7. Resident Evil 4 Professional
-8. Slime Rancher 2
-9. Resident evil 2 Remake[^tb]
-10. The Stanly Parable Ultra deluxe Edition[^tb]
-11. Mafia
+1. Doom Eternal
+2. Resident evil 2 Remake
+3. Life is Strange: True Colors[^wfs]
+4. Sniper Ghost Warrior 3
+5. Resident evil 4 remake[^wfs]
+6. A Pleague Tale: Innocense
+7. Resident Evil Village VOS
+8. Event\[0\]
+9. Geomentry Dash
+10. Rebel inc.
+11. Reauxura
+12. Resident Evil 4 Professional
+13. Slime Rancher 2
+14. The Stanly Parable Ultra deluxe Edition[^nbj]
+15. Mafia
 
-[^tb]: Need to Buy
+[^wfs]: Waiting for sale [^nbj]: Not Bought Jet
 
 {{#template ../footer.md}}
