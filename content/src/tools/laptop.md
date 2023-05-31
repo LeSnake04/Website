@@ -10,6 +10,6 @@
 | CPU      | intel i5-7300U          |
 | RNM      | 8 GB                    |
 
-## Previos Laptops
+## TODO Previos Laptops
 
 {{#template ../footer.md}}

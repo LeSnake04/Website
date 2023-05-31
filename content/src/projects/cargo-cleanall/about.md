@@ -4,7 +4,7 @@
 
 Cargo Cleanall is a Cargo plugin to clean all projects in a directory. It's very fast and simple to use.
 
-## Usage
+## TODO Usage
 
 ## Roadmap
 

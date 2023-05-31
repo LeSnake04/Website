@@ -17,4 +17,8 @@
 - Reddit: Infinity
 - Instagram: Barinsta
 
+## TODO Previosly used apps
+
+## TODO Previos Phones
+
 {{#template ../footer.md}}

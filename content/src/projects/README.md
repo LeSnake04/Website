@@ -2,8 +2,9 @@
 
 # Projects
 
-Projects I am part of.
+Projects I created.
 
-1. [Cargo-Cleanall](./cargo-cleanall)
+1. [Cargo-Cleanall](./cargo-cleanall/README.md)
+2. [error_log](/content/src/projects/error_log.md)
 
 {{#template ../footer.md}}
