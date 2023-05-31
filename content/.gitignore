@@ -1,2 +1,4 @@
 book
-theme
+!theme
+theme/*
+!theme/header.hbs
