@@ -1,0 +1,6 @@
+{
+    "deno.enable": true,
+    "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+        "lesnake"
+    ]
+}
