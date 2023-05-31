@@ -8,11 +8,11 @@ Expect gramatical errors.
 
 # LeSnake
 
-I am a 19 year old student from Germany and will start traing soon.
+I am a 19-year-old student from Germany and will start my apprenticeship soon.
 
 My interests are Coding, Linux and Gaming.
 
-I am also am active in the Linux ecosystem and also manage aur und flatpak packages.
+I am also am active in the Linux ecosystem and also manage AUR and flatpak packages.
 
 While I did python projects in the past, I now focus on rust projects.
 
