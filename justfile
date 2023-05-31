@@ -5,7 +5,7 @@ default:
 	just --list
 
 serve:
-	cd content && mdbook serve
+	just b serve
 
 build:
 	cd content && mdbook build
