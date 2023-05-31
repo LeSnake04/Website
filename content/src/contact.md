@@ -1,6 +1,6 @@
 {{#template header.md}}
 
-# Contact
+# Contact Me
 
 - [Mail: dev.lesnake@posteo.de](mailto:dev.lesnake@posteo.de)
 - [Matrix: @lesnake@matrix.org](https://matrix.to/#/@lesnake:matrix.org)

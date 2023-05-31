@@ -6,6 +6,7 @@
     - [Terminal](tools/software/terminal.md)
     - [Plugins](tools/software/plugins.md)
   - [PC](tools/pc.md)
+  - [Laptop](tools/laptop.md)
   - [Phone](tools/phone.md)
 - [Projects](./projects/README.md)
   - [Cargo-Cleanall](./projects/cargo-cleanall/README.md)
@@ -19,4 +20,4 @@
 - [Games](games/README.md)
   - [PC Games Ranking](games/ranking.md)
   - [Backlog](games/backlog.md)
-- [Contact](contact.md)
+- [Contact Me](contact.md)
