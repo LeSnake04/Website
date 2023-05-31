@@ -19,3 +19,4 @@
 - [Games](games/README.md)
   - [PC Games Ranking](games/ranking.md)
   - [Backlog](games/backlog.md)
+- [Contact](contact.md)
