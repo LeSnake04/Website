@@ -34,7 +34,6 @@ Extensions I use on my Gnome 43 Laptop (Fedora 37).
 - Vitals
 - Wireles HID
 
-[^rp]: Temporarily Replaced due to missing gnome 43 support [^bu]: blocking
-upgrade to Gnome 44
+[^rp]: Temporarily Replaced due to missing gnome 43 support [^bu]: blocking upgrade to Gnome 44
 
 {{#template ../../footer.md}}

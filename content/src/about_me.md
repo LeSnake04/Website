@@ -1,18 +1,19 @@
 {{#template header.md}}
 
 ```admonish warning title="Work in Progress"
-This Website is in an early state and missing a lot of information.
+This Website is in an early state, so it's missing information.
+
+Expect gramatical errors.
 ```
 
 # LeSnake
 
-I am a 19 years old student from Germany.
+I am a 19 year old student from Germany and will start traing soon.
 
 My interests are Coding, Linux and Gaming.
 
-I am working on many Programs and am active in the Linux Ecosystem. I also
-manage aur und flatpak packages.
+I am also am active in the Linux ecosystem and also manage aur und flatpak packages.
 
-I did python projects in the past and now focus on rust projects.
+While I did python projects in the past, I now focus on rust projects.
 
 {{#template footer.md}}

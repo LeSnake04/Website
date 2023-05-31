@@ -15,8 +15,7 @@
 | OS       | Windows 10 Pro                                            | Only used for some Games/Mods     |
 | HDD      | 4Tb                                                       | Mainly Games, Backups             |
 
-Its an used Gaming PC on Ebay (Originally with i5-6500 and GTX 960) and We fixed
-and Upgraded ever since, like a nw
+Its an used Gaming PC on Ebay (Originally with i5-6500 and GTX 960) and We fixed and Upgraded ever since, like a nw
 
 # Upgrade Path
 
