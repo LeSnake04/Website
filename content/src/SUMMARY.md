@@ -8,6 +8,7 @@
   - [PC](tools/pc.md)
   - [Laptop](tools/laptop.md)
   - [Phone](tools/phone.md)
+  - [Server](tools/server.md)
 - [Projects](./projects/README.md)
   - [Cargo-Cleanall](./projects/cargo-cleanall/README.md)
     - [About](./projects/cargo-cleanall/about.md)
