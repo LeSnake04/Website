@@ -14,10 +14,10 @@
 
 - helix: ide
 - rust-analizer: lsp
-- bacon: run command on changes
+- bacon: run clippy/run on changes
 - tarpulin: test coverage
-- miri: performance graph
-- just (make alternative): code runner
+- flamegraph: performance graph
+- just (make alternative): script runner
 - cargo upgrade
   - `cargo instsall-update`
 - cargo cache: clear the global cargo cache
