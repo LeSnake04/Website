@@ -1,2 +1,2 @@
-tailwind:
-	tailwindcss -i src/input.css -o src/tw.css --watch
+serve:
+	php -S localhost:8080

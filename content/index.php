@@ -1,22 +1,21 @@
 <!DOCTYPE html>
 
 <head>
-    <?php
-    require "base-head.html"
-    ?>
+    <link href="style.css" rel="stylesheet">
+    <?php require "base-head.html" ?>
 </head>
 
 <body>
-    <?php
-    require "header.html"
-    ?>
-    <div class="w-full bg-black h-20">
-        <button class="">test</button>
+    <?php require "header.html" ?>
+    <div class="flex-container">
+        <div>
+            <p>test</p>
+        </div>
+        <div>
+            <md-block src="index.md"></md-block>
+        </div>
+        <div>
+            <p>text</p>
+        </div>
     </div>
-  <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
-    <md-block>
-        # Hello
-    </md-block>
 </body>
