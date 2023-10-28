@@ -8,14 +8,14 @@ serve:
 	just b serve
 
 build:
-	cd content && mdbook build
+	mdbook build
 
 alias b := book
 @book cmd:
-	cd content && mdbook $1
+	mdbook $1
 
 open:
 	xdg-open content/book/html/index.html
 
 push:
-	just build && scp -r content/book/html webedit@lesnake.xyz:/var/www
+	just build && scp -r book/html webedit@lesnake.xyz:/var/www
